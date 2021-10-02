@@ -4,7 +4,7 @@ separator: ^-{3}
 verticalSeparator: ^\+{3}
 theme: night
 revealOptions:
-transition: 'fade'
+    transition: 'fade'
 ---
 
 ## Community Safety and Performance
@@ -25,7 +25,7 @@ Home Office Safer Streets Fund – following a successful bid Hertsmere BC were 
 
 +++
 
-![](./images/Cowley_Hill_Event_Leaflet_pptx.png)
+![Halloween Leaflet](./images/Cowley_Hill_Event_Leaflet_pptx.png)
 
 +++
 
@@ -131,7 +131,7 @@ Infrastructure servers  are being moved from on premise to Azure, this is an ong
 
 eBase eforms, external and internal eforms. All forms to be migrated or rewritten on Netcall platform (new cloud hosted CRM system). Target date December.
 
-Sharepoint and Onedrive personal and departmental data drives, implement SharePoint and Onedrive. Target date Q3 2022/23.
+Sharepoint and OneDrive personal and departmental data drives, implement SharePoint and OneDrive. Target date Q3 2022/23.
 
 Infrastructure Team will also look at ways of exploiting MS 365 functionality.
 
@@ -150,3 +150,7 @@ Infrastructure Team will also look at ways of exploiting MS 365 functionality.
 
 <!-- .slide: data-background="./images/hands-up.jpg" -->
 ## Q&A
+
+---
+
+FIN
