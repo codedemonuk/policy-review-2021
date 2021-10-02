@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "deck",
+			"problemMatcher": [],
+			"label": "npm: deck",
+			"detail": "reveal-md src/index.md -w",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
