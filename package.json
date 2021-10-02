@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "https://github.com/codedemonuk/policy-review-2021.git",
   "author": "Pervez Choudhury <codedemonuk@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^5.1.3"
+  },
+  "scripts": {
+    "deck": "reveal-md src/index.md -w",
+    "print": "reveal-md src/index.md --print slides.pdf --print-size A4",
+    "static": "reveal-md src/index.md --static _site"
+  }
 }
