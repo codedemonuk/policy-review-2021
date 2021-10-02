@@ -1,0 +1,9 @@
+{
+  "name": "policy-review-2021",
+  "version": "0.1.0",
+  "description": "Presentation for Policy Review committee",
+  "main": "index.js",
+  "repository": "https://github.com/codedemonuk/policy-review-2021.git",
+  "author": "Pervez Choudhury <codedemonuk@gmail.com>",
+  "license": "MIT"
+}
