@@ -7,6 +7,7 @@ revealOptions:
     transition: 'fade'
 ---
 
+<!-- .slide: data-background="./images/bokeh.jpg" -->
 ## Community Safety and Performance
 
 Cllr  Pervez Choudhury
