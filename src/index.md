@@ -88,9 +88,23 @@ Throughout the pandemic a member of my team has attended the morning meeting wit
 
 ## Performance
 
+Note:
+
+
+
 ---
 
 ## Human Resources
+
++++
+
+### Future Work Design
+
+Note:
+
+The Future Work Design project is looking at redesigning the way office space is used by the council officers into a full hybrid working model.
+It hopes to build upon lessons learnt about remote and flexible working during the COVID-19 pandemic lockdowns.
+We will be looking at work stations, meeting spaces and touch down areas that may be required in the future to support new ways of working, and redesigning and re-purposing the work space.
 
 ---
 
@@ -110,9 +124,31 @@ ABS Finance System, paper going to Executive to migrate to Advance Systems Cloud
 
 Mitel Telephony system, procurement for support and to migrate on premise infrastructure to a hosted/cloud hosted platform due to be advertised using CCS framework agreement RM3808 lot 6 1st September 2022. Paper to November Executive. Although until we have evaluated supplier responses it is not possible to set a target date to migrate to hosted/cloud hosted platform it is reasonable that this can be achieved Q4 2021/22 to Q1 2022/23.
 
-Idox Uniform, Planning, Environmental Health, Land Charges, Housing, Asset Management. We have a proposal from Idox to migrate the Uniform system to MS Azure. IDS Business Team are organising meetings with other LA Uniform users who have migrated to MS Azure. The proposal has been shared with  Head of Planning (Ross Whear) and IDS will meet with Planning in September to discuss. IDS will also engage with other stakeholders in EH, Legal, Housing and Asset Management. The proposal is to build a full ‘test’ system in MS Azure, this will allow the various departments to fully test the modules they use. This will require resourcing and further discussion will be required with the relevant Service Heads. Once all modules tested and signed-off by Service Heads ‘live’ system will be migrated to MS Azure. This front loads the project, once testing is completed and signed–off it will be relatively straight forward to move the ‘live’ system. Key will be in the testing. Uniform is a large system used by 5 service departments and resourcing testing will be key, all services must sign-off before migrating ‘live’ system. There may be a requirement for a project manager? This is more for information than for the report. Depending on buy in from Service Heads and resourcing both within IDS and the Service Units. A realistic estimated target date would be Q3/Q4 2022/23.
+Idox Uniform, Planning, Environmental Health, Land Charges, Housing, Asset Management. We have a proposal from Idox to migrate the Uniform system to MS Azure.
+IDS Business Team are organising meetings with other LA Uniform users who have migrated to MS Azure.
+The proposal has been shared with  Head of Planning (Ross Whear) and IDS will meet with Planning in September to discuss.
+IDS will also engage with other stakeholders in EH, Legal, Housing and Asset Management.
+The proposal is to build a full ‘test’ system in MS Azure, this will allow the various departments to fully test the modules they use.
+This will require resourcing and further discussion will be required with the relevant Service Heads.
+Once all modules tested and signed-off by Service Heads ‘live’ system will be migrated to MS Azure.
+This front loads the project, once testing is completed and signed–off it will be relatively straight forward to move the ‘live’ system. Key will be in the testing.
+Uniform is a large system used by 5 service departments and resourcing testing will be key, all services must sign-off before migrating ‘live’ system.
+There may be a requirement for a project manager?
+This is more for information than for the report.
+Depending on buy in from Service Heads and resourcing both within IDS and the Service Units.
+A realistic estimated target date would be Q3/Q4 2022/23.
 
-Civica Open Revenues,  Council Tax, Housing Benefits, NNDR. IDS have met with Civica Account Manager and expressed the Authority’s strategy to move to a hosted/cloud hosted platform. Civica are developing a ‘Civica cloud’ R&B solution. This is still at an early stage, they will not be able to demonstrate anything until April 2022. Civica model will be a fully managed service and they said there would not be an option for them to host and our staff to manage the releases etc.. IDS suspect this solution will come at a cost and it maybe that HBC explore the market for other R&B solutions. Either way this will be a large project, Civica still developing a cloud solution or a full procurement. With current resources it would not be feasible to achieve hosted/cloud hosted in 2022. I suggest we engage and monitor Civica progress. A stepping stage could be we look at collocation options if Civica cloud does not progress or costs are prohibitive. This would allow time for Head of Finance and Business Services and Revenue and Benefits Manager to evaluate a full procurement project.
+Civica Open Revenues,  Council Tax, Housing Benefits, NNDR.
+IDS have met with Civica Account Manager and expressed the Authority’s strategy to move to a hosted/cloud hosted platform.
+Civica are developing a ‘Civica cloud’ R&B solution.
+This is still at an early stage, they will not be able to demonstrate anything until April 2022.
+Civica model will be a fully managed service and they said there would not be an option for them to host and our staff to manage the releases etc..
+IDS suspect this solution will come at a cost and it maybe that HBC explore the market for other R&B solutions.
+Either way this will be a large project, Civica still developing a cloud solution or a full procurement.
+With current resources it would not be feasible to achieve hosted/cloud hosted in 2022.
+I suggest we engage and monitor Civica progress.
+A stepping stage could be we look at collocation options if Civica cloud does not progress or costs are prohibitive.
+This would allow time for Head of Finance and Business Services and Revenue and Benefits Manager to evaluate a full procurement project.
 
 +++
 
@@ -120,11 +156,12 @@ Civica Open Revenues,  Council Tax, Housing Benefits, NNDR. IDS have met with Ci
 
 Note:
 
-VMWare Horizon being implemented to replace out of support Citrix environment, October 2021. This will be used by Idox Uniform and Civica Open Revenues users who have experienced performance issues over the VPN. Initially this will be an on premise installation but will be migrated to the cloud when Uniform and Open revenues are moved to a cloud platform.  It will also be used to control supplier support access. Note not for external publication, this will remove Win 7 desktops from Planning, R&B etc..
+VMWare Horizon being implemented to replace out of support Citrix environment, October 2021.
+This will be used by Idox Uniform and Civica Open Revenues users who have experienced performance issues over the VPN.
+Initially this will be an on premise installation but will be migrated to the cloud when Uniform and Open revenues are moved to a cloud platform.
+It will also be used to control supplier support access.
 
 Veeam cloud backup and restore (Azure primary and AWS additional). This will replace Acronis backup.
-
-Resilience added to telephony system allowing ?????????
 
 Additional BT internet connection added to provide resilience and performance.
 
