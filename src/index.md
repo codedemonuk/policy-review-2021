@@ -127,7 +127,7 @@ Note:
 The Executive is currently working on the Corporate Plan which will be complete in the next few months and come through Executive and Full Council for adoption.
 As part of that plan there will be a number of commitments that we will be making to the community.
 
-We will be developing an action plan based on those commitments
+An action plan will be developed based on those commitments and the Performance Panel will work with officers to come up with an effective way of monitoring and reporting on performance against those commitments.
 
 ---
 
@@ -181,9 +181,6 @@ This will require resourcing and further discussion will be required with the re
 Once all modules tested and signed-off by Service Heads ‘live’ system will be migrated to MS Azure.
 This front loads the project, once testing is completed and signed–off it will be relatively straight forward to move the ‘live’ system. Key will be in the testing.
 Uniform is a large system used by 5 service departments and resourcing testing will be key, all services must sign-off before migrating ‘live’ system.
-There may be a requirement for a project manager?
-This is more for information than for the report.
-Depending on buy in from Service Heads and resourcing both within IDS and the Service Units.
 A realistic estimated target date would be Q3/Q4 2022/23.
 
 Civica Open Revenues,  Council Tax, Housing Benefits, NNDR.
@@ -194,10 +191,6 @@ Civica model will be a fully managed service and they said there would not be an
 IDS suspect this solution will come at a cost and it maybe that HBC explore the market for other R&B solutions.
 Either way this will be a large project, Civica still developing a cloud solution or a full procurement.
 With current resources it would not be feasible to achieve hosted/cloud hosted in 2022.
-
-I suggest we engage and monitor Civica progress.
-A stepping stage could be we look at collocation options if Civica cloud does not progress or costs are prohibitive.
-This would allow time for Head of Finance and Business Services, and the Revenue and Benefits Manager to evaluate a full procurement project.
 
 +++
 
@@ -234,7 +227,6 @@ Infrastructure Team will also look at ways of exploiting MS 365 functionality.
 - Hillary Shade
 - John Robinson
 - Judith Fear
-- Liz Gore
 - Valerie Kane
 
 ---
