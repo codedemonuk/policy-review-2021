@@ -7,17 +7,27 @@ revealOptions:
     transition: 'fade'
 ---
 
-<!-- .slide: data-background="./images/bokeh.jpg" -->
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/brian-suh-a4GET0s82rI-unsplash.jpg" -->
 ## Community Safety and Performance
 
 Cllr  Pervez Choudhury
 
+Note:
+
+Thank you for inviting me to the Policy Review committee tonight.
+I will take members on a whistle-stop tour of things coming up in my portfolio over the coming year and take questions at the end.
+
 ---
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/aron-visuals-R49cUgaQ0mk-unsplash.jpg" -->
 ## Community Safety
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/aron-visuals-R49cUgaQ0mk-unsplash.jpg" -->
 ### Safer Streets
 
 Note:
@@ -30,7 +40,9 @@ Home Office Safer Streets Fund – following a successful bid Hertsmere BC were 
 
 +++
 
-CCTV
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/aron-visuals-R49cUgaQ0mk-unsplash.jpg" -->
+### CCTV
 
 Note:
 
@@ -38,7 +50,9 @@ CCTV – via the Safer Streets fund we have managed to secure some additional mo
 
 +++
 
-### Recruitment
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/aron-visuals-R49cUgaQ0mk-unsplash.jpg" -->
+### Partnership Support Officer
 
 Note:
 
@@ -46,6 +60,8 @@ The full time post of Partnerships Support Officer is currently vacant – we ha
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/aron-visuals-R49cUgaQ0mk-unsplash.jpg" -->
 ### Community Trigger
 
 Note:
@@ -54,6 +70,8 @@ Community Trigger process – we have been working with ASB Help  (http://www.as
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/aron-visuals-R49cUgaQ0mk-unsplash.jpg" -->
 ### CSP Action Plan
 
 Note:
@@ -62,6 +80,7 @@ CSP Action Plan – this is ongoing and will continue to be so for the rest of t
 
 +++
 
+<!-- .slide: data-background="./images/aron-visuals-R49cUgaQ0mk-unsplash.jpg" -->
 ### Schools
 
 Note:
@@ -70,6 +89,8 @@ Continued liaison with schools – we will be meeting with them to establish wha
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/aron-visuals-R49cUgaQ0mk-unsplash.jpg" -->
 ### Partnerships
 
 Note:
@@ -78,26 +99,37 @@ We will continue to work on improving our Partnership by engaging with more part
 
 +++
 
-### Daily meetings with Police
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/aron-visuals-R49cUgaQ0mk-unsplash.jpg" -->
+### Police
 
 Note:
 
-Throughout the pandemic a member of my team has attended the morning meeting with police colleagues (known as DTM – Daily Tasking Meeting) this has proved to be invaluable and will continue as part of our normal work stream
+Throughout the pandemic a member of the community safety team has attended the morning meeting with police colleagues (known as DTM – Daily Tasking Meeting) this has proved to be invaluable and will continue as part of our normal work stream
 
 ---
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/ellicia-n0LyI8vmuNA-unsplash.jpg" -->
 ## Performance
 
 Note:
 
+The Executive is currently working on the Corporate Plan which will be complete in the next few months and come through Executive and Full Council for adoption.
+As part of that plan there will be a number of commitments that we will be making to the community.
 
+We will be developing an action plan based on those commitments
 
 ---
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/jack-b-LtotBngNZZU-unsplash.jpg" -->
 ## Human Resources
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/jack-b-LtotBngNZZU-unsplash.jpg" -->
 ### Future Work Design
 
 Note:
@@ -108,10 +140,14 @@ We will be looking at work stations, meeting spaces and touch down areas that ma
 
 ---
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/hello-i-m-nik-4ShXInrtdV4-unsplash.jpg" -->
 ## Information and Digital Services
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/hello-i-m-nik-4ShXInrtdV4-unsplash.jpg" -->
 ### Business Systems
 
 Note:
@@ -120,14 +156,16 @@ We are on track to make progress on moving our 5 major businesses systems off pr
 
 Civica Icon payments and bank reconciliation system now fully hosted. Remaining modules distribution and bank reconciliation migrated to hosted platform August 2021. On premise servers being decommissioned September 2021.
 
-ABS Finance System, paper going to Executive to migrate to Advance Systems Cloud Financials hosted on suppliers AWS platform. Project target date is to migrate finance system Q1 2022/23 (April/May 2022).
+Finance System will be migrated over the year to Advance Systems Cloud Financials hosted on suppliers AWS platform.
+The project target date is to migrate finance system Q1 2022/23 (April/May 2022).
 
-Mitel Telephony system, procurement for support and to migrate on premise infrastructure to a hosted/cloud hosted platform due to be advertised using CCS framework agreement RM3808 lot 6 1st September 2022. Paper to November Executive. Although until we have evaluated supplier responses it is not possible to set a target date to migrate to hosted/cloud hosted platform it is reasonable that this can be achieved Q4 2021/22 to Q1 2022/23.
+Mitel Telephony system, procurement for support and to migrate on premise infrastructure to a hosted/cloud hosted platform due to be advertised.
+Although until we have evaluated supplier responses it is not possible to set a target date to migrate to hosted/cloud hosted platform it is reasonable that this can be achieved Q4 2021/22 to Q1 2022/23.
 
 Idox Uniform, Planning, Environmental Health, Land Charges, Housing, Asset Management. We have a proposal from Idox to migrate the Uniform system to MS Azure.
 IDS Business Team are organising meetings with other LA Uniform users who have migrated to MS Azure.
 The proposal has been shared with  Head of Planning (Ross Whear) and IDS will meet with Planning in September to discuss.
-IDS will also engage with other stakeholders in EH, Legal, Housing and Asset Management.
+IDS will also engage with other stakeholders in Enrivonmental Health, Legal, Housing and Asset Management.
 The proposal is to build a full ‘test’ system in MS Azure, this will allow the various departments to fully test the modules they use.
 This will require resourcing and further discussion will be required with the relevant Service Heads.
 Once all modules tested and signed-off by Service Heads ‘live’ system will be migrated to MS Azure.
@@ -140,18 +178,21 @@ A realistic estimated target date would be Q3/Q4 2022/23.
 
 Civica Open Revenues,  Council Tax, Housing Benefits, NNDR.
 IDS have met with Civica Account Manager and expressed the Authority’s strategy to move to a hosted/cloud hosted platform.
-Civica are developing a ‘Civica cloud’ R&B solution.
+Civica are developing a ‘Civica cloud’ Revenues and Benefits solution.
 This is still at an early stage, they will not be able to demonstrate anything until April 2022.
 Civica model will be a fully managed service and they said there would not be an option for them to host and our staff to manage the releases etc..
 IDS suspect this solution will come at a cost and it maybe that HBC explore the market for other R&B solutions.
 Either way this will be a large project, Civica still developing a cloud solution or a full procurement.
 With current resources it would not be feasible to achieve hosted/cloud hosted in 2022.
+
 I suggest we engage and monitor Civica progress.
 A stepping stage could be we look at collocation options if Civica cloud does not progress or costs are prohibitive.
-This would allow time for Head of Finance and Business Services and Revenue and Benefits Manager to evaluate a full procurement project.
+This would allow time for Head of Finance and Business Services, and the Revenue and Benefits Manager to evaluate a full procurement project.
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/hello-i-m-nik-4ShXInrtdV4-unsplash.jpg" -->
 ### Infrastructure
 
 Note:
@@ -175,7 +216,8 @@ Infrastructure Team will also look at ways of exploiting MS 365 functionality.
 
 ---
 
-<!-- .slide: data-background="./images/community.jpg" -->
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./images/aron-visuals-R49cUgaQ0mk-unsplash.jpg" -->
 ## Credits
 
 - Hillary Shade
