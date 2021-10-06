@@ -46,7 +46,8 @@ Home Office Safer Streets Fund – following a successful bid Hertsmere BC were 
 
 Note:
 
-CCTV – via the Safer Streets fund we have managed to secure some additional mobile cameras – these will be rolled out to ‘hot spot’ ASB areas. In addition we are looking to upgrade the cameras along Shenley Road using S106 monies
+CCTV – via the Safer Streets fund we have managed to secure some additional mobile cameras – these will be rolled out to ‘hot spot’ ASB areas.
+In addition we are looking to upgrade the cameras along Shenley Road using S106 monies.
 
 +++
 
@@ -66,7 +67,15 @@ The full time post of Partnerships Support Officer is currently vacant – we ha
 
 Note:
 
-Community Trigger process – we have been working with ASB Help  (http://www.asbhelp.co.uk) to ensure we have the correct processes and procedures in place.  We are nearly there but are awaiting the review of the PCC’s to establish what they will bring to the Community Trigger table.
+For those of you unfamiliar with it, the Community Trigger allows people who have reported an incident 3 or more times within a 6 month period to activate the Community Trigger (also known as an ASB Case Review) through the Council.
+This has been designed to give victims, the right to demand that agencies deal with persistent anti-social behaviour.
+
+There will be a multi-agency case review which involves various agencies (eg. local Police, Local Authority, Housing Association, NHS, etc.).
+This is different from a single-agency complaints process which looks at faults in the way an agency responded.
+The Community Trigger process is more of an attempt to ultimately fix the problem and stop the anti-social behaviour.
+
+We have been working with ASB Help  (http://www.asbhelp.co.uk) to ensure we have the correct processes and procedures in place.
+We are nearly there but are awaiting the review with the PCC to establish what they will bring to the Community Trigger table.
 
 +++
 
@@ -162,7 +171,8 @@ The project target date is to migrate finance system Q1 2022/23 (April/May 2022)
 Mitel Telephony system, procurement for support and to migrate on premise infrastructure to a hosted/cloud hosted platform due to be advertised.
 Although until we have evaluated supplier responses it is not possible to set a target date to migrate to hosted/cloud hosted platform it is reasonable that this can be achieved Q4 2021/22 to Q1 2022/23.
 
-Idox Uniform, Planning, Environmental Health, Land Charges, Housing, Asset Management. We have a proposal from Idox to migrate the Uniform system to MS Azure.
+Idox Uniform system is used by Planning, Environmental Health, Land Charges, Housing, and Asset Management.
+We have a proposal from Idox to migrate the Uniform system to MS Azure.
 IDS Business Team are organising meetings with other LA Uniform users who have migrated to MS Azure.
 The proposal has been shared with  Head of Planning (Ross Whear) and IDS will meet with Planning in September to discuss.
 IDS will also engage with other stakeholders in Enrivonmental Health, Legal, Housing and Asset Management.
@@ -202,7 +212,8 @@ This will be used by Idox Uniform and Civica Open Revenues users who have experi
 Initially this will be an on premise installation but will be migrated to the cloud when Uniform and Open revenues are moved to a cloud platform.
 It will also be used to control supplier support access.
 
-Veeam cloud backup and restore (Azure primary and AWS additional). This will replace Acronis backup.
+Veeam cloud backup and restore is being introduced with data being backed up to both Azure and AWS.
+This will replace our existing Acronis backup system.
 
 Additional BT internet connection added to provide resilience and performance.
 
